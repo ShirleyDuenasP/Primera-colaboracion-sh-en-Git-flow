@@ -1,2 +1,8 @@
 # Primera-colaboracion-en-Git-flow
 Esta es mi primera colaboracion usando git flow
+# Que es la ingeneiria de software
+La ingeniería de software es una disciplina de la informática que se encarga del diseño, desarrollo, implementación y mantenimiento de sistemas de software de manera eficiente y organizada. A diferencia de la programación, que se enfoca en escribir código para resolver problemas específicos, la ingeniería de software abarca un enfoque integral que involucra la planificación y gestión de todo el ciclo de vida de un proyecto de software, desde la identificación de requisitos hasta su posterior mantenimiento.
+
+Uno de sus principios clave es la aplicación de metodologías estructuradas para asegurar que el software sea confiable, escalable y fácil de mantener. Estas metodologías, como el desarrollo ágil o en cascada, ayudan a coordinar el trabajo de equipos de desarrolladores y a gestionar proyectos complejos. Además, la ingeniería de software incorpora buenas prácticas como el control de versiones, la revisión de código, las pruebas y la documentación adecuada.
+
+La calidad del software es otro aspecto central en esta disciplina. Mediante pruebas rigurosas y un enfoque en la seguridad y eficiencia del código, los ingenieros de software minimizan los errores y optimizan el rendimiento del sistema. Finalmente, la ingeniería de software facilita la innovación al permitir que los desarrolladores experimenten con nuevas tecnologías de manera controlada, asegurando que las soluciones sean robustas y capaces de adaptarse a las cambiantes necesidades del mercado y los usuarios.
